@@ -40,7 +40,7 @@ public class Board {
         if (thereIsAPiece(position)) {
             throw new BoardException("There is already a piece on position " + position);
         }
-        this.pieces[position.getRow()][position.getColumn()] = piece;
+        pieces[position.getRow()][position.getColumn()] = piece;
         piece.position = position;
     }
 
@@ -53,7 +53,7 @@ public class Board {
         }
         Piece aux = piece(position);
         aux.position = null;
-        pieces[position.getRow()][position.getColumn()] = aux;
+        pieces[position.getRow()][position.getColumn()] = null;
         return aux;
     }
 
