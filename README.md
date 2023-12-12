@@ -34,5 +34,7 @@ This project is a Java implementation of a Chess game. The development of the Ch
 - **Static members:** Incorporated static members to define properties and methods that belong to the class rather than instances, providing a global scope.
 </details>
 
+![2023-12-12 19-04-25 (video-converter com)](https://github.com/ArthurBarrosNascimento/chess-system-java/assets/102781893/6ea95ec0-c238-4a9b-8cd0-dd47831ff416)
+
 </br>
 Feel free to explore the [source code](link_to_source_code) to gain insights into the application's structure and the implementation of these OOP principles in the context of a Chess game. If you have any questions or suggestions, please don't hesitate to [reach out](link_to_contact)!
