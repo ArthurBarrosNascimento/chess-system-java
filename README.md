@@ -1,8 +1,9 @@
 # ♟️ Chess System ♟️
 
-This project is a Java implementation of a Chess game. The development of the Chess system required the application of Object-Oriented Programming (OOP) principles, including:
+This project is a Java implementation of a Chess game. The development of the Chess system required the application of Object-Oriented Programming (OOP) principles.
 
-### OOP Principles Implemented
+<details>
+  <summary><b>OOP Principles Implemented</b></summary>
 
 - **Classes:** Structured the program using classes to encapsulate behavior and data related to different components.
 
@@ -15,8 +16,10 @@ This project is a Java implementation of a Chess game. The development of the Ch
 - **Polymorphism:** Implemented polymorphism to allow objects of different classes to be treated as objects of a common base class, enhancing flexibility and adaptability.
 
 - **Downcasting:** Utilized downcasting to access specific functionalities of derived classes when working with objects at the base class level.
+</details>
 
-### Other OOP Concepts Applied
+<details>
+  <summary><b>Other OOP Concepts Applied</b></summary>
 
 - **Exceptions:** Managed exceptions to handle unexpected situations gracefully and ensure the robustness of the Chess system.
 
@@ -29,5 +32,7 @@ This project is a Java implementation of a Chess game. The development of the Ch
 - **Layers pattern:** Adopted the layers pattern to organize the application into logical layers, promoting separation of concerns and maintainability.
 
 - **Static members:** Incorporated static members to define properties and methods that belong to the class rather than instances, providing a global scope.
+</details>
 
-Feel free to explore the source code to gain insights into the application's structure and the implementation of these OOP principles in the context of a Chess game. If you have any questions or suggestions, please don't hesitate to reach out!
+</br>
+Feel free to explore the [source code](link_to_source_code) to gain insights into the application's structure and the implementation of these OOP principles in the context of a Chess game. If you have any questions or suggestions, please don't hesitate to [reach out](link_to_contact)!
